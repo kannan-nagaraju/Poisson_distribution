@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+
 # Developed By:N Kannan
 # Reference No:2122223230097
 
@@ -67,6 +68,7 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ````
+
 
 # Output : 
 ![image](https://github.com/kannan-nagaraju/Poisson_distribution/assets/145742755/e9032a72-11cf-4452-8eb9-b68fa102b2c2)
