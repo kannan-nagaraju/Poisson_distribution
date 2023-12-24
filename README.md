@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+# Developed By:N Kannan
+# Reference No:2122223230097
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
